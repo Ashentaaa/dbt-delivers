@@ -1,0 +1,5 @@
+data\ # 
+everything inside the data folder will be ignored by git
+*.csv # 
+all csvs will be ignored by git
+Do we really want that?
